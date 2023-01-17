@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, i'm Nathally Nunes</h1>
 <h3 align="center">Front-End developer</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kha-tul)](https://github.com/kha-tul/github-readme-stats&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kha-tul)](https://github.com/kha-tul/github-readme-stats&show_icons=true&theme=tokyonight)
 
 
 - 🔭 I’m currently working with **Angular**
